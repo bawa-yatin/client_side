@@ -1,0 +1,22 @@
+.CharacterList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.character {
+    display: flex;
+}
+
+.character-content {
+    margin-left: 2rem;
+}
+
+.character-episode {
+    margin-top: 2rem;
+}
+
+.Search {
+    margin-left: 3.5rem;
+    margin-bottom: 1.5rem;
+}
